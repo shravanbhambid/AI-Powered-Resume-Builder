@@ -301,6 +301,10 @@ For issues or feature requests, please create an issue in the repository.
 5. Open Pull Request
 
 ![Image Alt](https://github.com/shravanbhambid/AI-Powered-Resume-Builder/blob/main/Screenshot%202026-02-18%20205952.png)
+![Image Alt](https://github.com/shravanbhambid/AI-Powered-Resume-Builder/blob/main/Screenshot%202026-02-18%20210534.png)
+![Image Alt](https://github.com/shravanbhambid/AI-Powered-Resume-Builder/blob/main/Screenshot%202026-02-18%20210555.png)
+![Image Alt](https://github.com/shravanbhambid/AI-Powered-Resume-Builder/blob/main/Screenshot%202026-02-18%20210719.png)
 
 **Built with ❤️ for job seekers and professionals**
+
 
