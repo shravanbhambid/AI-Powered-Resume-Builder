@@ -300,6 +300,7 @@ For issues or feature requests, please create an issue in the repository.
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
----
+![Image Alt](https://github.com/shravanbhambid/AI-Powered-Resume-Builder/blob/main/Screenshot%202026-02-18%20205952.png)
 
 **Built with ❤️ for job seekers and professionals**
+
